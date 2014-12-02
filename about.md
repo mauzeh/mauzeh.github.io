@@ -10,7 +10,11 @@ permalink: /about/
 
 Hi there, I'm **Maurits Dekkers**. I'm a web developer with 10 years of professional development experience, during which I have mostly worked with **Symfony**, **Drupal**, **Zend Framework**, and **AngularJS**.
 
-Tools I use on a daily basis:
+<ul class="contact-list">
+  <li>{{ site.title }}</li>
+  <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+  <li>{{ site.phone }}</li>
+</ul>
 
 **Frameworks:**
 
