@@ -5,7 +5,7 @@ date:   2014-11-12 12:11:31
 categories: Symfony2
 ---
 
-I've recently published a Symfony 2 code sample which is based a real life project. The original project is a web-based workflow app and is currently in production by > 5000 users. In this code sample, no GUI is included. Instead, you may run the unit tests provided to verify that the code works.
+I've recently published a Symfony 2 code sample which is based on a real life project. The original project is a web-based workflow app and is currently in production by > 5000 users. In this code sample, no GUI is included. Instead, you may run the unit tests provided to verify that the code works.
 
 [View the code sample](https://www.github.com/mauzeh/showcase-symfony/)
 
