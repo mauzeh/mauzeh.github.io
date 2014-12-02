@@ -4,6 +4,9 @@ title:  "Handy Tip for Vim Beginners"
 date:   2012-04-03 10:15:01
 categories: vim
 ---
+
+Vim is truly awesome!
+
 Here’s something that I discovered recently:
 
 {% highlight bash %}
