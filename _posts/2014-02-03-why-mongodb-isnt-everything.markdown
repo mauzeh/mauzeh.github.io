@@ -14,7 +14,7 @@ However, among Do-It-Yourself (DIY) teams, MongoDB is hard to implement successf
 To put it lightly, relational databases are not easy to scale. With *sharding*, MongoDB attempts to provide an alternative for this problem. However, sharding is often implemented wrongly:
 
 1. A wrong shard key is chosen, which is an expensive mistake to fix.
-2. Sharding is applied too late in the database scaling process. If the database is already running at or near full capacity, then a number of time-intensive tasks is required to move into a distributed data storage mechanism.
+2. Sharding is applied too late in the database scaling process. If the database is already running at or near full capacity, then it is much more difficult to move into a distributed data storage mechanism.
 
 **Performance**
 
