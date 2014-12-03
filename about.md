@@ -8,7 +8,7 @@ permalink: /about/
 	<img src="{{site.baseurl}}/assets/images/maurits_dekkers.jpg" alt="Maurits Dekkers" title="Maurits Dekkers" width="250" />
 </div>
 
-Hi there, I'm **Maurits Dekkers**. I'm a web developer with 10 years of professional development experience, during which I have mostly worked with **Symfony**, **Drupal**, **Zend Framework**, and **AngularJS**.
+Hi there, I'm **Maurits Dekkers**. I'm a web developer with 10 years of professional development experience. The last 5 years or so I have mostly worked with **Symfony**, **Drupal**, **Zend Framework**, and **AngularJS**.
 
 <ul class="contact-list">
   <li>{{ site.title }}</li>
