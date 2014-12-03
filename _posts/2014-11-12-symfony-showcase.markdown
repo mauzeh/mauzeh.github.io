@@ -7,6 +7,10 @@ categories: Symfony2
 
 I've recently published a Symfony 2 code sample which is based on a real life project. The original project is a web-based workflow app and is currently in production by > 5000 users. In this code sample, no GUI is included. Instead, you may run the unit tests provided to verify that the code works.
 
+<div class="bb-pull-right bb-border bb-gap-inside bb-gap-left">
+	<img src="{{site.baseurl}}/assets/images/logo_symfony.png" alt="Symfony" title="Symfony" width="150" />
+</div>
+
 [View the code sample](https://www.github.com/mauzeh/showcase-symfony/)
 
 For an assessment of the code quality in this repository, please review in particular the following files:

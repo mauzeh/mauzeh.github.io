@@ -7,6 +7,10 @@ categories: mongodb
 
 MongoDB has gained popularity fast, so fast that it has become the de-facto NoSQL solution for many different use cases: web back-end data storage, caching, and full-text search mechanisms.
 
+<div class="bb-pull-right bb-border bb-gap-inside bb-gap-left">
+	<img src="{{site.baseurl}}/assets/images/logo_mongodb.jpeg" alt="MongoDB" title="MongoDB" width="250" />
+</div>
+
 However, among Do-It-Yourself (DIY) teams, MongoDB is hard to implement successfully. This is not to say that MongoDB is a bad choice for your project, but only to say that you need to take this into account before making a decision about using MongoDB.
 
 **Scalability**

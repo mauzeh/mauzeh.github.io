@@ -7,6 +7,10 @@ categories: vim
 
 Vim is truly awesome!
 
+<div class="bb-pull-right bb-border bb-gap-inside bb-gap-left">
+	<img src="{{site.baseurl}}/assets/images/logo_vim.png" alt="Vim" title="Vim" width="150" />
+</div>
+
 Here’s something that I discovered recently:
 
 {% highlight bash %}

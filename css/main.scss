@@ -51,6 +51,10 @@ $on-laptop:        800px;
 .bb-gap-left {
   margin-left: 15px;
 }
+.bb-gap-inside {
+  padding: 15px;
+  background: #fff;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
