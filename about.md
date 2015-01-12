@@ -38,9 +38,11 @@ Hi there, I'm **Maurits Dekkers**. I'm a web developer with 10 years of professi
 
 **Front-End:**
 
+- AngularJS
 - CSS
-- jQuery
+- LESS
 - Sass / Compass
+- jQuery
 
 **Testing:**
 
